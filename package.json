@@ -1,0 +1,26 @@
+{
+  "name": "itscgpd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frw-helpdesk/itscgpd.git"
+  },
+  "author": "frw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frw-helpdesk/itscgpd/issues"
+  },
+  "homepage": "https://github.com/frw-helpdesk/itscgpd#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  }
+}
